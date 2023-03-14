@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-SXB_VERSION="1.2.7.1275"
+SXB_VERSION="1.2.7.1277"
 
 case $(uname | tr '[:upper:]' '[:lower:]') in
   darwin*) PLATFORM_TYPE='macOS' ;;
